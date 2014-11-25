@@ -1,7 +1,7 @@
 SIP
 =====================
 
-Greasemonkey script aid in market listings
+Greasemonkey script to aid in market listings
 ---
 This is from internal tooling and configureation is not in an easy to reach place.(sorry!) I plan to add a settings area to ease in public use but until then please refer to the code or shoot me an email if you need a hand setting things up!
 
