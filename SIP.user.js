@@ -13,7 +13,7 @@
 jQuery.fn.exists = function(){return this.length>0;};
 
 //Insert any specific guns(in string format) that you do NOT want to sell in the main/gun loop
-var itemsToNotSell = []
+var itemsToNotSell = [""]
 
 $(window).load(function ( ) {
   $(document).ready(function() {
