@@ -3,9 +3,7 @@ SIP
 
 Greasemonkey script to aid in market listings
 ---
-This is from internal tooling and configureation is not in an easy to reach place.(sorry!) I plan to add a settings area to ease in public use but until then please refer to the code or shoot me an email if you need a hand setting things up!
-
-I'll also be working on moving the docs over (they will sit in this readme) when I find time but be aware that I'm fairly busy at the moment so again, email me if questions
+This project was fairly out of date when I published it here. At this point, it's incredibly dated and probably crashes on page reloads. At some point I'll push the massivly improved rewrite but due to time constraints it may be a while. Sorry!
 
 ---
 
